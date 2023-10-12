@@ -3,6 +3,7 @@ langchain==0.0.312
 telebot
 python-dotenv
 ipykernel
+faiss-cpu
 # below are libraries used
 # if you want to create embedding
 # on your own
@@ -11,4 +12,3 @@ ipykernel
 #pdfminer
 #pdfminer.six
 #tiktoken
-#faiss-cpu
