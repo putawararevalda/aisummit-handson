@@ -4,6 +4,7 @@ telebot
 python-dotenv
 ipykernel
 faiss-cpu
+tiktoken
 # below are libraries used
 # if you want to create embedding
 # on your own
@@ -11,4 +12,3 @@ faiss-cpu
 #pdf2image
 #pdfminer
 #pdfminer.six
-#tiktoken
