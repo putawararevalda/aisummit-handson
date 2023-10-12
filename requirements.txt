@@ -1,0 +1,14 @@
+openai
+langchain==0.0.312
+telebot
+python-dotenv
+ipykernel
+# below are libraries used
+# if you want to create embedding
+# on your own
+#unstructured
+#pdf2image
+#pdfminer
+#pdfminer.six
+#tiktoken
+#faiss-cpu
